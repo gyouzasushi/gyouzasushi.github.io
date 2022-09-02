@@ -5,6 +5,7 @@
   - 無限にイラストロジックで遊ぼう！
 - [digitigid](https://gyouzasushi.github.io/digitigid/)
   - 数字を上手に描いてみよう！
+  - スマーホでも遊べます。
 - [library](https://gyouzasushi.github.io/library/)
   - 競プロ用のライブラリ（C++）です。
   - ちょっとずつ verify していきます。
