@@ -12,3 +12,5 @@
 - [dotting-dot](https://gyouzasushi.github.io/dotting-dot/)
   - モノクロドット絵を作ろう！
   - 背景→最近よくアイロンビーズで遊んでいるので。懐かしすぎ
+- [ars-magna](https://gyouzasushi.github.io/ars-magna/)
+  - アナグラムを LE SSERAFIM 風にしてみよう！
