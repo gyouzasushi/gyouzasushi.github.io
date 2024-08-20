@@ -14,3 +14,6 @@
   - 背景→最近よくアイロンビーズで遊んでいるので。懐かしすぎ
 - [ars-magna](https://gyouzasushi.github.io/ars-magna/)
   - アナグラムを LE SSERAFIM 風にしてみよう！
+- [cologuessr](https://gyouzasushi.github.io/cologuessr/)
+  - 色を当てよう！
+  - 二人用です。
